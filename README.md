@@ -12,7 +12,7 @@ I like keeping things simple, functional, and easy to understand.
 
 <table>
 <tr>
-<td width="60%">
+<td width="80%">
 
 ### 🛠️ Tech Stack
 
@@ -32,9 +32,9 @@ I like keeping things simple, functional, and easy to understand.
 
 </td>
 
-<td width="40%" align="center">
+<td width="60%" align="center">
 
-<img src="YOUR_PIXEL_ART.gif" width="300">
+<img src="Halloween Illustration GIF by Walter Newton.gif" width="500">
 
 </td>
 </tr>
