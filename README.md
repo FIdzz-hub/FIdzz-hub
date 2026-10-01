@@ -10,34 +10,45 @@ I like keeping things simple, functional, and easy to understand.
 
 ---
 
+<table>
+<tr>
+<td width="60%">
+
 ### 🛠️ Tech Stack
 
 **Languages & Web**
-
-* HTML / CSS
-* JavaScript
-* PHP
+- HTML / CSS
+- JavaScript
+- PHP
 
 **Frameworks & Libraries**
-
-* React
-* Next.js
-* Tailwind CSS
+- React
+- Next.js
+- Tailwind CSS
 
 **Tools**
+- Git
+- GitHub
 
-* Git
-* GitHub
+</td>
+
+<td width="40%" align="center">
+
+<img src="YOUR_PIXEL_ART.gif" width="300">
+
+</td>
+</tr>
+</table>
 
 ---
 
 ### 🚀 Featured Projects
 
-#### [MYANIMELIST]
+#### [WebKelas]
 
-A simple anime listing website built with **Next.js**, focused on exploring API integration, dynamic pages, search, pagination, and a clean user experience.
+A web-based learning platform project focused on creating a simple and organized interface for accessing and managing learning content.
 
-**Tech:** Next.js · React · Tailwind CSS · API
+**Tech:** Next.js · React · Tailwind CSS
 
 #### [MontirGo]
 
